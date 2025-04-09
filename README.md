@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**App Name:** Keeply
 
-## Getting Started
+**Tagline:** Save and organize your favorite websites with ease.
 
-First, run the development server:
+**Description:**
+Keeply is a bookmarking app that allows users to save and organize their favorite websites. With Keeply, users can categorize, search, and access their saved links anytime, anywhere.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Features:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Bookmark Management:** Users can add, edit, and delete bookmarks with ease.
+- **Categorization:** Bookmarks can be categorized into different folders for easy organization.
+- **Search:** Users can search for bookmarks by keyword, category, or URL.
+- **User Authentication:** Users can sign up and log in to access their bookmarks.
+- **Profile Management:** Users can view and edit their profile information.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Technologies Used:**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend:** Next.js, React, JavaScript
+- **Backend:** Firebase (Authentication, Firestore)
+- **Dependencies:** react-toastify, framer-motion, lucide-react, etc.
 
-## Learn More
+**Getting Started:**
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository: `git clone https://github.com/your-username/keeply.git`
+2. Install dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm run dev` or `yarn dev`
+4. Open the app in your browser: `http://localhost:3000`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Contributing:**
+Contributions are welcome! If you'd like to contribute to Keeply, please fork the repository and submit a pull request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**License:**
+Keeply is licensed under the MIT License.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Acknowledgments:**
+Special thanks to the creators of Next.js, React, and Firebase for making this project possible.
