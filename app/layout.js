@@ -1,4 +1,5 @@
 import AppContextProvider from "./_context/appcontext";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import "./globals.css";
 import { ToastContainer } from "react-toastify";
 export const metadata = {
@@ -26,6 +27,7 @@ export default function RootLayout({ children }) {
           <ToastContainer />
         </AppContextProvider>
       </body>
+      <GoogleAnalytics gaId="G-BYGWHZ78F0" />
     </html>
   );
 }
