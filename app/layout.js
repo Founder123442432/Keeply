@@ -17,7 +17,7 @@ export const metadata = {
     "Next.js bookmarking",
   ],
   other: {
-    "google-site-verification": "yyLnDZt_22TQ8S2Jps5aUWo4DQhsujFo5b_aDptBjpM",
+    "google-site-verification": "x1oB_-KBi3hcEvR3mSqYw4tU8Q-xZYp-yKVJgljEz3Q",
   },
 };
 
