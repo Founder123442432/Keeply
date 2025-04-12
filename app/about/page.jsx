@@ -1,6 +1,8 @@
 import Link from "next/link";
 import Sidebar from "../_components/sidebar";
-
+export const metadata = {
+  title: "about ",
+};
 export default function About() {
   return (
     <div className="flex min-h-screen bg-gray-900 w-full ">
