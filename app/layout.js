@@ -16,6 +16,9 @@ export const metadata = {
     "Bookmark app",
     "Next.js bookmarking",
   ],
+  other: {
+    "google-site-verification": "yyLnDZt_22TQ8S2Jps5aUWo4DQhsujFo5b_aDptBjpM",
+  },
 };
 
 export default function RootLayout({ children }) {
