@@ -32,7 +32,7 @@ const navItems = [
     id: 4,
     name: "about",
     icon: <MessageSquare size={20} />,
-    link: "about",
+    link: "/about",
   },
   { id: 5, name: "Contact", icon: <BarChart2 size={20} />, link: "" },
   { id: 6, name: "Settings", icon: <Settings size={20} />, link: "" },
